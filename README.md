@@ -1,10 +1,10 @@
 ### This is a todo app 
 
-->Technologies Used
+@@Technologies Used@@
 
->>React
->>Graphql
->>Apollo
->>Hasura
->>Heroku
->>Tachyons
+->>React
+->>Graphql
+->>Apollo
+->>Hasura
+->>Heroku
+->>Tachyons

@@ -89,7 +89,14 @@ function App() {
     }
   };
 
-  if (loading) return <div>Loading todos...</div>;
+  if (loading)
+    return (
+      <div>
+        <h1 className="vh-100 code flex flex-column items-center bg-purple white">
+          Loading todos...
+        </h1>
+      </div>
+    );
   if (error) return <div> Error fetching</div>;
   return (
     <div className="vh-100 code flex flex-column items-center bg-purple white pa3 fl-1">

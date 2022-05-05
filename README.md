@@ -2,9 +2,9 @@
 
 @@Technologies Used@@
 
-->>React
-->>Graphql
-->>Apollo
-->>Hasura
-->>Heroku
-->>Tachyons
+->>React <br/>
+->>Graphql <br/>
+->>Apollo <br/>
+->>Hasura <br/>
+->>Heroku <br/>
+->>Tachyons <br/>
